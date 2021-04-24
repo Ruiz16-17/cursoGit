@@ -20,5 +20,8 @@ and open the template in the editor.
         <p>Esto es un p$aacute;rrafo de ejemplo</p>
         <p>Esto es un p$aacute;rrafo de ejemplo</p>
         <p>Esto es un p$aacute;rrafo de ejemplo</p>
+         
+        
+        <p>Parrafo agregado desde GitHub (WEB)</p>
     </body>
 </html>
